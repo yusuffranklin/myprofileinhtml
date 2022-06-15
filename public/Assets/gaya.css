@@ -1,0 +1,12 @@
+body {
+     background-color: white;
+}
+hr {
+    border-style: dashed none none;
+    border-color: #1B2430;
+    border-width: 10px;
+    width: 30%;
+}
+h1, h3 {
+    color:#1B2430;
+}
